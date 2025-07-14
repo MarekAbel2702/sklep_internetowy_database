@@ -24,7 +24,7 @@ Baza składa się z następujących tabel:
 
 Relacje między tabelami są stworzone przy użyciu kluczy obcych (`FOREIGN KEY`).
 
-## ⚙️ Wymagania
+##  Wymagania
 
 - **Microsoft SQL Server** (dowolna wersja, np. 2019+)
 - **SQL Server Management Studio (SSMS)** lub inne IDE zgodne z T-SQL
